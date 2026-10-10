@@ -10,8 +10,8 @@
 
 💻 Tech Stack
 
-- Languages: Python, PHP, SQL
-- Web Development: HTML, CSS
+- Languages: Python, PHP, Java, SQL
+- Web Development: HTML, CSS, Javascript
 - Database: MySQL
 - Currently Exploring: Data Science, Machine Learning & Generative AI
 
